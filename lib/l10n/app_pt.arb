@@ -1,0 +1,22 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Harry Potter",
+  "characters": "Personagens",
+  "spells": "Magias",
+  "all": "Todos",
+
+  "name": "Nome",
+  "house": "Casa",
+  "actor": "Ator",
+  "unknown": "Desconhecida",
+  "notInformed": "Não informado",
+  "unknownHouse": "Casa desconhecida",
+  "species": "Espécie",
+  "patronus": "Patrono",
+  "eyeColour": "Cor dos olhos",
+  "hairColour": "Cor do cabelo",
+  "dateOfBirth": "Data de nascimento",
+  "alive": "Vivo",
+  "yes": "Sim",
+  "no": "Não"
+}

@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "Harry Potter",
+  "characters": "Characters",
+  "spells": "Spells",
+  "all": "All",
+
+  "name": "Name",
+  "house": "House",
+  "actor": "Actor",
+  "unknown": "Unknown",
+  "notInformed": "Not informed",
+  "unknownHouse": "Unknown house",
+  "species": "Species",
+  "patronus": "Patronus",
+  "eyeColour": "Eye colour",
+  "hairColour": "Hair colour",
+  "dateOfBirth": "Date of birth",
+  "alive": "Alive",
+  "yes": "Yes",
+  "no": "No"
+}
